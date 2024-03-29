@@ -4,7 +4,7 @@
 
 ## About This Project
 
-This Project just created via ![Screenshot](./tailwindcss-logo.png)
+This Project just created via [Screenshot](./tailwindcss-logo.png)
 
 ## Contact Information
 
